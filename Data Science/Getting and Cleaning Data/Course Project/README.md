@@ -9,7 +9,7 @@ The dataset can be downloaded at: (https://d396qusza40orc.cloudfront.net/getdata
 
 ##Files (repo)
 
-<b>The code takes uses all the data is present in the same folder, un-compressed and without names altered. Folder container the train and test data should be 'UCI HAR Dataset'</b>
+<b>The code uses all the data present in the same folder, un-compressed and without names altered. -> Folder containing the train and test folders should be 'UCI HAR Dataset'</b>
 
 CodeBook.md describes the steps taken to perform the tasks assigned in the project: gathering and loading data, translation of the data, cleaning of the data and explanation of the variables used through the project.
 
