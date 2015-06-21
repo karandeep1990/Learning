@@ -13,7 +13,7 @@ points = 0
 def time_handler():
     global time
     
-    time += 1 * scale
+    time += 1
 
 # draw formated time and score
 def draw_handler(canvas):
